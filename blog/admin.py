@@ -11,4 +11,4 @@ class PostAdmin(admin.ModelAdmin):
 
 admin.site.register(Blog, PostAdmin)
 
-hi haha
+hi haha, hihi
